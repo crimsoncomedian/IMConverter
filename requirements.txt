@@ -1,0 +1,7 @@
+streamlit
+playwright
+selenium
+beautifulsoup4
+pillow
+pytesseract
+nest_asyncio
